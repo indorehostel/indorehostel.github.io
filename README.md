@@ -1,0 +1,1 @@
+Celebrate life in Indore.

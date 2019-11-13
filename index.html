@@ -127,18 +127,9 @@
                                 </p>
                                 <button id="display-contact" class="slider-btn2 traffica_slider_btnt1"
                                    >Check room availability</button>
-                                <div class="modal-container">
-                                    <input id="modal-toggle" type="checkbox">
-                                    <button>Click me</button>
-                                    <div class="modal-backdrop">
-                                        <div class="modal-content">
-                                            <label class="modal-close" for="modal-toggle">x</label>
-                                            <h2>Modal title</h2><hr />
-                                            <p>Hello from inside the modal!</p>
-                                            <label class="modal-close button" for="modal-toggle">OK</label>
-                                        </div>
-                                    </div>
-                                </div>
+                                <div id = "dialog-1"
+                                     title = "Dialog Title goes here...">This my first jQuery UI Dialog!</div>
+                                <button id = "opener">Open Dialog</button>
                             </div>
                         </li>
                     </ul>
@@ -354,6 +345,24 @@
     $( function() {
         $( "#dialog" ).dialog();
     } );
+</script>
+<style>
+    .ui-widget-header,.ui-state-default, ui-button {
+        background:#b9cd6d;
+        border: 1px solid #b9cd6d;
+        color: #FFFFFF;
+        font-weight: bold;
+    }
+</style>
+<script>
+    $(function() {
+        $( "#dialog-1" ).dialog({
+            autoOpen: false,
+        });
+        $( "#opener" ).click(function() {
+            $( "#dialog-1" ).dialog( "open" );
+        });
+    });
 </script>
 <script src='https://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica//assets/js/custom.js?ver=5.2.4'
         type='text/javascript'></script>

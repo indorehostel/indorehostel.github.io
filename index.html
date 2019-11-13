@@ -139,17 +139,6 @@
                                 </p>
                                 <button id="display-contact" class="slider-btn2 traffica_slider_btnt1"
                                    >Check room availability</button>
-                                <div class="modal-container">
-                                    <input id="modal-toggle" type="checkbox">
-                                    <label class="modal-btn" for="modal-toggle">Check room availability</label>
-                                    <label class="modal-backdrop" for="modal-toggle"></label>
-                                    <div class="modal-content">
-                                        <label class="modal-close" for="modal-toggle">&#x2715;</label>
-                                        <h2>Contact</h2><hr />
-                                        <p>+91-9406833025</p>
-                                        <label class="modal-content-btn" for="modal-toggle">OK</label>
-                                    </div>
-                                </div>
                             </div>
                         </li>
                     </ul>
@@ -353,12 +342,19 @@
         </div>
     </div>
 </div>
-
+<div id="dialog" title="Basic dialog">
+    <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+</div>
 <div class="footer-line-container">
     <div class="footer-line">
     </div>
 </div>
 <div class="clear"></div>
+<script>
+    $( function() {
+        $( "#dialog" ).dialog();
+    } );
+</script>
 <script src='https://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica//assets/js/custom.js?ver=5.2.4'
         type='text/javascript'></script>
 </body>

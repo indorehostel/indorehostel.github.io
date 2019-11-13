@@ -62,18 +62,6 @@
             type='text/javascript'></script>
     <script src='https://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/js/jquery.meanmenu.js?ver=5.2.4'
             type='text/javascript'></script>
-    <script>
-        $("#display-contact").click(function() {
-            $( "#dialog-message" ).dialog({
-                modal: true,
-                buttons: {
-                    Ok: function() {
-                        $( this ).dialog( "close" );
-                    }
-                }
-            });
-        });
-    </script>
     <link href='https://indorehostel.github.io/wp-json/' rel='https://api.w.org/'/>
     <link href="https://indorehostel.github.io/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
     <style type="text/css">.header, .traffica_footertext {
@@ -139,6 +127,18 @@
                                 </p>
                                 <button id="display-contact" class="slider-btn2 traffica_slider_btnt1"
                                    >Check room availability</button>
+                                <div class="modal-container">
+                                    <input id="modal-toggle" type="checkbox">
+                                    <button>Click me</button>
+                                    <div class="modal-backdrop">
+                                        <div class="modal-content">
+                                            <label class="modal-close" for="modal-toggle">x</label>
+                                            <h2>Modal title</h2><hr />
+                                            <p>Hello from inside the modal!</p>
+                                            <label class="modal-close button" for="modal-toggle">OK</label>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </li>
                     </ul>

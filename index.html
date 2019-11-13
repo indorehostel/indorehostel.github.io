@@ -72,14 +72,6 @@
             background: url('');
         }
     </style>
-    <style>
-        .ui-widget-header,.ui-state-default, ui-button {
-            background:#b9cd6d;
-            border: 1px solid #b9cd6d;
-            color: #FFFFFF;
-            font-weight: bold;
-        }
-    </style>
 </head>
 <body class="home blog elementor-default">
 <div class="header_wrapper">
@@ -341,24 +333,19 @@
         </div>
     </div>
 </div>
-<div id="dialog" title="Basic dialog">
-    <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
-</div>
 <div class="footer-line-container">
     <div class="footer-line">
     </div>
 </div>
-<div class="clear"></div>
 <script>
-    $(function() {
-        $( "#dialog-1" ).dialog({
-            autoOpen: false,
-        });
-        $( "#opener" ).click(function() {
-            $( "#dialog-1" ).dialog( "open" );
-        });
-    });
+    $( function() {
+        $( "#dialog" ).dialog();
+    } );
 </script>
+<div class="clear"></div>
+<div id="dialog" title="Basic dialog">
+    <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+</div>
 <script src='https://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica//assets/js/custom.js?ver=5.2.4'
         type='text/javascript'></script>
 </body>

@@ -125,8 +125,8 @@
                                     <br>Water purifier
                                     <br>Daily cleaning
                                 </p>
-                                <a class="slider-btn2 traffica_slider_btnt1"
-                                   href="https://en.wikipedia.org/wiki/Rajwada">Check room availability.</a>
+                                <button id="display-contact" class="slider-btn2 traffica_slider_btnt1"
+                                   >Check room availability.</button>
                             </div>
                         </li>
                     </ul>
@@ -330,12 +330,33 @@
         </div>
     </div>
 </div>
+<div id="dialog-message" title="Download complete">
+    <p>
+        <span class="ui-icon ui-icon-circle-check" style="float:left; margin:0 7px 50px 0;"></span>
+        Your files have downloaded successfully into the My Downloads folder.
+    </p>
+    <p>
+        Currently using <b>36% of your storage space</b>.
+    </p>
+</div>
 
 <div class="footer-line-container">
     <div class="footer-line">
     </div>
 </div>
 <div class="clear"></div>
+<script>
+    $('#display-contact').click( function() {
+        $( "#dialog-message" ).dialog({
+            modal: true,
+            buttons: {
+                Ok: function() {
+                    $( this ).dialog( "close" );
+                }
+            }
+        });
+    } );
+</script>
 <script src='https://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica//assets/js/custom.js?ver=5.2.4'
         type='text/javascript'></script>
 </body>

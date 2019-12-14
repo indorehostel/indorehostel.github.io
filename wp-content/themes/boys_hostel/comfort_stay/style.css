@@ -217,7 +217,7 @@ dt {
 }
 #menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li.current_page_item a {
     color: #333;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/menubg.png) top repeat-x;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/menubg.png) top repeat-x;
     -webkit-animation: all 0.7s ease-in-out;
 }
 #menu li a.selected, #menu li.current_page_item a {
@@ -226,7 +226,7 @@ dt {
 }
 #menu li a:hover {
     color: #333;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/menubg.png) top repeat-x;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/menubg.png) top repeat-x;
     -webkit-animation: all 0.7s ease-in-out;
     border-bottom: 3px solid #F2690E;
 }
@@ -372,7 +372,7 @@ dt {
     margin-bottom: 0px;
 }
 span.slidertop-shadow {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/slider-shadow.png) repeat-x;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/slider-shadow.png) repeat-x;
     height: 4px;
     width: 100%;
     position: absolute;
@@ -457,7 +457,7 @@ span.slidertop-shadow {
     min-height: 280px;
     height: 100%;
     padding: 8px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/slider-frame.png) no-repeat; 
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/slider-frame.png) no-repeat; 
     display: block;
     margin: 0 auto;
 }
@@ -470,7 +470,7 @@ span.slidertop-shadow {
     height: 235px;
 }
 .flexslider .slides   span.slider-shadow {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/slider-overlay1.png) no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/slider-overlay1.png) no-repeat;
     max-height: 238px;
     max-width: 444px;
     width: 100%;
@@ -705,7 +705,7 @@ html[xmlns] .slides {
 .page_info {
     text-align: center;
     padding-top: 69px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/page_line.png) bottom no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/page_line.png) bottom no-repeat;
     padding-bottom: 40px;
     margin-bottom: 55px;
 }
@@ -970,7 +970,7 @@ html[xmlns] .slides {
     left: 90px;
     width: 160px;
     height: 117px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/logo.png) 0 0 no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/logo.png) 0 0 no-repeat;
 }
 
 .back-title {
@@ -1519,7 +1519,7 @@ html[xmlns] .slides {
     font-size: 18px; 
 }
 .akordeon-item span.ac_tip {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/ac-tip-bw.png) no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/ac-tip-bw.png) no-repeat;
     height: 16px;
     width: 8px;
     position: absolute;
@@ -1527,14 +1527,14 @@ html[xmlns] .slides {
     top: 11px;
 }
 .akordeon-item.expanded span.ac_tip {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/ac-tip.png) no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/ac-tip.png) no-repeat;
 }
 .akordeon-icon span {
     font-size: 0;
     position: absolute;
     left: -42px;
     top: 7px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/arrow_down.png) no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/arrow_down.png) no-repeat;
     width: 23px;
     height: 23px;
     /*    -webkit-transition: all 0.2s linear;
@@ -1542,7 +1542,7 @@ html[xmlns] .slides {
         -o-transition: all 0.2s linear;*/
 }
 .akordeon-item.expanded .akordeon-icon span {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/arrow_up.png) no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/arrow_up.png) no-repeat;
 }
 .akordeon-item-head-container {
     width: 100%;
@@ -1683,10 +1683,10 @@ html[xmlns] .slides {
 /*----------Footert container---------------*/
 .footer-top-line-container {
     height: 22px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/footer-top-line.png) repeat-x;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/footer-top-line.png) repeat-x;
 }
 .footer-container {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/footer-bg.png) repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/footer-bg.png) repeat;
     padding: 30px 0 30px 0;
     margin-top: 40px;
 }
@@ -1811,11 +1811,11 @@ a span.two {
 }
 .footer-line-container {
     height: 3px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/footer-line.png) repeat-x;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/footer-line.png) repeat-x;
     border-bottom: 1px solid #222222;
 }
 .bottom-footer-container {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/bottom-footer-bg.png) repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/bottom-footer-bg.png) repeat;
 }
 .bottom-footer-container .bottom_footer_content {
     margin: 13px 0;
@@ -2048,7 +2048,7 @@ a span.two {
     list-style-position: inside;
 }
 .page_heading_container {
-    background: #f6f6f6 url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/crumb-img.png) center no-repeat;
+    background: #f6f6f6 url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/crumb-img.png) center no-repeat;
     margin-bottom: 55px;
     position: relative;
     border-top: 1px solid #d2d3d4;
@@ -2056,7 +2056,7 @@ a span.two {
     padding: 18px 0 15px 0;
 }
 .page_heading_container span.crumb_shadow {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/crumb-shadow.png) top repeat-x;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/crumb-shadow.png) top repeat-x;
     position: absolute;
     top: 0;
     width: 100%;
@@ -2465,7 +2465,7 @@ ul.paging {
     border: 1px solid #ddd;
     padding: 20px 45px;
     margin-bottom: 26px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/contact_bg.png) repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/contact_bg.png) repeat;
     -webkit-box-shadow: 0 8px 5px -7px rgb(209, 209, 209);
     -moz-box-shadow: 0 8px 5px -7px rgb(209, 209, 209);
     box-shadow: 0 8px 5px -7px rgb(209, 209, 209);
@@ -2512,14 +2512,14 @@ ul.paging {
     font-size: 16px;
     text-transform: uppercase;
     text-decoration: none;
-    background: url('http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/contact-us-btn.png') no-repeat 0 0;
+    background: url('https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/contact-us-btn.png') no-repeat 0 0;
     max-width: 171px;
     width: 100%;
     height: 48px;
     border: none;
 }
 #contactForm input[type="submit"]:hover {
-    background: url('http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/contact-us-btn.png') no-repeat 0 -55px;
+    background: url('https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/contact-us-btn.png') no-repeat 0 -55px;
 }
 .contact-map iframe {
     width: 100%;
@@ -2640,7 +2640,7 @@ ol.commentlist li.comment .reply a {
     font-size: 12px;
     text-transform: uppercase;
     display: block;
-    /*background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/reply-bg.png) 39px 3px no-repeat;*/
+    /*background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/reply-bg.png) 39px 3px no-repeat;*/
     /*padding-right: 21px;*/
     margin-top: 17px;
     margin-right: 15px;
@@ -2685,7 +2685,7 @@ ol.commentlist li.comment ul.children li.depth-5 {
     padding: 20px 40px;
     padding-bottom: 0;
     margin-top: 10px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/contact_bg.png) repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/contact_bg.png) repeat;
     -webkit-box-shadow: 0 8px 5px -7px rgb(209, 209, 209);
     -moz-box-shadow: 0 8px 5px -7px rgb(209, 209, 209);
     box-shadow: 0 8px 5px -7px rgb(209, 209, 209);
@@ -2754,12 +2754,12 @@ textarea#comment {
     text-transform: uppercase;
     text-decoration: none;
     border: none;
-    background: url('http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/comment-btn.png') no-repeat 0 0;
+    background: url('https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/comment-btn.png') no-repeat 0 0;
     width: 171px;
     height: 48px;
 }
 #commentform input#submit:hover {
-    background: url('http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/comment-btn.png') no-repeat 0 -53px;
+    background: url('https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/comment-btn.png') no-repeat 0 -53px;
 }
 h3#reply-title {
     color: #1c1b1b;
@@ -2834,7 +2834,7 @@ h3#reply-title {
     -o-transition: all .3s linear;
     -ms-transition: all .3s linear;
     transition: all .3s linear;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/gall-bg.png) center no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/gall-bg.png) center no-repeat;
     width: 22px;
     height: 20px;
 }
@@ -2856,7 +2856,7 @@ h3#reply-title {
 /*Gallery style in content bar
 ================================================*/
 .gallery.gall ul.thumbnail li span.fade {
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/view_photo.png) no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/view_photo.png) no-repeat;
     position: absolute;
     top: 60px;
     left: 65px;
@@ -3024,7 +3024,7 @@ pre {
     padding: 0 10px 0px 10px;
     display: block;
     clear: both;
-    /*background: #cccccc url('http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/codebg.jpg');*/
+    /*background: #cccccc url('https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/codebg.jpg');*/
     background:  #cccccc;
     line-height: 20px;
     font-size: 11px;
@@ -3086,7 +3086,7 @@ pre {
 blockquote {
     padding-left: 60px;
     min-height: 40px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/blockqoute.png) no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/blockqoute.png) no-repeat;
 }
 blockquote {
     margin-top: 40px;
@@ -3332,7 +3332,7 @@ a img.aligncenter {
     display: block;
     width: 15px;
     height: 10px;
-    background: url(http://indorehostel.github.io/wp-content/themes/traffica.1.2.9/traffica/assets/images/responsive_arrow.png) no-repeat;
+    background: url(https://indorehostel.github.io/wp-content/themes/boys_hostel/comfort_stay/assets/images/responsive_arrow.png) no-repeat;
     position: absolute;
     top: 19px;
     left: 63px;
